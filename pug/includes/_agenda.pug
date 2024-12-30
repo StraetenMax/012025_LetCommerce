@@ -1,0 +1,25 @@
+//-agenda
+-
+    const affichesList = [
+        {
+            'image':'https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg',
+            'alt':'Affiche du salon du Lycéen et de l\'Étudiants à Lille le 16, 17 et 18 janvier 2025'
+        },
+        {
+            'image':'https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg',
+            'alt':'Affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h'
+        },
+        {
+            'image':'https://i.ibb.co/fQMvYww/img-JPO30012025.jpg',
+            'alt':'Affiche de la Journée Portes Ouvertes du 30 janvier 2025 de 17h à 19h'
+        }
+    ]
+mj-section(background-color="#ffffff" padding-bottom="0")
+    mj-column(width="480px")
+        mj-text(padding-bottom='0' padding-top='0'  mj-class="dH2 cOF" text-transform='uppercase') Agenda
+        mj-text(padding-bottom='0' padding-top='0' mj-class="dH1 cO") Salon et Journées Portes Ouvertes
+mj-section(background-color="#ffffff" padding-bottom="40px") 
+    mj-group(width="480px")
+        each affiche in affichesList
+            mj-column( width="33,333333%" padding="2px")
+                mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src=affiche.image alt=affiche.alt)/

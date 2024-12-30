@@ -1,0 +1,157 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Ecosup Commerce 012025</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, Helvetica, sans-serif"/>
+      <mj-class name="dH1" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="28px" font-weight="300" line-height="30px"/>
+      <mj-class name="dH2" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px"/>
+      <mj-class name="dT" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px"/>
+      <mj-class name="dTs" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" font-weight="300" line-height="16px"/>
+      <mj-class name="cB" color="#2D3748"/>
+      <mj-class name="cOF" color="#AA3E17"/>
+      <mj-class name="cO" color="#EC6608"></mj-class>
+      <mj-spacer height="0"></mj-spacer>
+    </mj-attributes>
+    <mj-breakpoint width="500px"></mj-breakpoint>
+    <mj-style>
+      @media(max-width: 500px){
+          .espace{
+              height: 50px !important;
+          }
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#edf2f7">
+    <mj-section background-color="#fbc49d" padding-bottom="10px">
+      <mj-column width="320px" vertical-align="top">
+        <mj-image border="none" width="480px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"></mj-image>
+      </mj-column>
+      <mj-column width="160px" background-color="#f77a22" border-radius="0px 40px 0px 0px">
+        <mj-image align="left" border="none" width="50px" src="https://i.ibb.co/Mskj4kV/Marie-Laurence.jpg" alt="Laurence Wallaert responsable pédagogique"/>
+        <mj-text align="left" mj-class="dTs cB" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Marie-Laurence</span> <span style="text-transform:uppercase;font-weight:700;">Wallaert</span></mj-text>
+        <mj-text align="left" mj-class="dTs cB" padding-top="0">Responsable pédagogique Ecosup-commerce</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EC6608" padding="0">
+      <mj-column width="480px">
+        <mj-text align="left" padding-top="5px" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter Ecosup Commerce / <span style="font-weight:700;color:#ffffff">Janvier 2025</span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="480px">
+        <mj-text padding-bottom="0" padding-top="0" mj-class="dH2 cOF" text-transform="uppercase">Agenda</mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO">Salon et Journées Portes Ouvertes</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="40px"> 
+      <mj-group width="480px">
+        <mj-column width="33,333333%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
+        </mj-column>
+        <mj-column width="33,333333%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"/>
+        </mj-column>
+        <mj-column width="33,333333%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/fQMvYww/img-JPO30012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 30 janvier 2025 de 17h à 19h"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#FDE2CE" padding-bottom="0">
+      <mj-column width="480px">
+        <mj-text padding-bottom="0" padding-top="0" mj-class="dH2 cOF" text-transform="uppercase">Partenaires</mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO"><span style="font-weight:700">Entreprises partenaires</span> qui accueillent nos étudiants</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FDE2CE" padding-bottom="40px"> 
+      <mj-group width="240px">
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/5nT0VG5/logo5.jpg" alt="logo Danone"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3frZQSL/logo4.jpg" alt="logo snipes"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/9Zn8sFY/logo3.jpg" alt="logo l'Incroyable"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Lewis"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="240px">
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1JtDdjZ/logo10.jpg" alt="logo D2R"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/r5CSJTZ/logo9.jpg" alt="logo Boulanger Electroménager"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Internarché"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Télécom"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="240px">
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/vzfDp26/logo6.jpg" alt="logo Norauto"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/JtjjLqW/logo16.jpg" alt="logo des magasins U"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/6PXjrWM/logo12.jpg" alt="logo de la chaîne de magasins Bureau Vallée"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/gMT39C5/logo14.jpg" alt="logo Vaporama"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="240px">
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/rwCsPwv/logo13.jpg" alt="logo B&amp;M"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/jzx6wwD/Logo17.jpg" alt="logo first burger"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1nyt9QW/logo1.jpg" alt="logo Carefour"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column width="480px">
+        <mj-social inner-padding="0 20px" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram">     </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column width="480px">
+        <mj-image padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed0f9d8a3bdbe17813ef.png" alt="Logo Ecosup-Campus"/>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="dTs cT">17 Place Charles et Albert Roussel</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="dTS cT"><span style="text-transform:uppercase">59200 tourcoing</span></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="dTs"><a style="font-weight:700;color:#2D3748" href="tel:0320700606">03.20.70.06.06</a></mj-text>
+        <mj-text padding-top="0" align="center" mj-class="dTs"><a style="font-weight:700;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="480px">
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="dTs cB">Si vous ne visualisez pas cet email correctement, cliquez <a style="color:#2D3748;font-weight:700;" href="{{ mirror }}">ici</a>.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="dTs cB">Vous recevez ce message parce que vous vous êtes inscrit(e) aux communications d'Ecosup Campus.</mj-text>
+        <mj-text padding-top="0" align="center" mj-class="dTs cB"><a style="color:#2D3748;font-weight:700;" href="{{ unsubscribe }}">Se desinscrire</a></mj-text>
+        <mj-text align="center" mj-class="dTs cB">@ 2024 Ecosup Campus</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

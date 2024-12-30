@@ -1,0 +1,46 @@
+mjml
+    mj-head
+        mj-title Ecosup Commerce 012025
+        mj-font(name='Roboto' href='https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')/
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+        mj-attributes
+            mj-all(font-family='Roboto, Arial, Helvetica, sans-serif')/
+            mj-class(name="dH1" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="28px" font-weight="300" line-height="30px")/
+            mj-class(name="dH2" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px")/
+            mj-class(name='dT' font-family="Roboto, Arial, Helvetica, sans-serif" font-size='16px' font-weight='400' line-height='20px')/
+            mj-class(name='dTs' font-family="Roboto, Arial, Helvetica, sans-serif" font-size='12px' font-weight='300' line-height='16px')/
+            mj-class(name='cB' color='#2D3748')/
+            mj-class(name='cOF' color="#AA3E17")/
+            mj-class(name="cO" color="#EC6608")
+            mj-spacer(height="0")
+        mj-breakpoint(width="500px")
+        mj-style.   
+            @media(max-width: 500px){
+                .espace{
+                    height: 50px !important;
+                }
+            }
+            
+    mj-body(background-color='#edf2f7')
+        //- content
+        block content
+        //- alternance
+            block alternance
+            include ../includes/_alternance
+        //- agenda
+        block agenda
+            include ../includes/_agenda
+        //- logo partenaires
+        block partenaires
+            include ../includes/_partenaires
+        //- réseaux sociaux
+        block resociaux
+            include ../includes/_resociaux
+        //- adresse
+        block adresse
+            include ../includes/_adresse
+        //- reglement
+        block reglement
+            include ../includes/_reglement
