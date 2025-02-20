@@ -1,0 +1,58 @@
+{
+  "logosList1": [
+        {
+            "image": "https://i.ibb.co/QFWSt0w/logo-Supveto01.jpg",
+            "alt": "logo Hôpital vétérinaire des Laurentides"
+        },
+        {
+            "image": "https://i.ibb.co/bgqVSsD/logo-Supveto02.jpg",
+            "alt": "logo Lux-Vet clinique vétérinaire"
+        },
+        {
+            "image": "https://i.ibb.co/NLgM4B7/logo-Supveto04.jpg",
+            "alt": "logo du centre hôpitalier Vétérinaire Pommery"
+        }
+    ],
+    "logosList2": [        
+        {
+            "image": "https://i.ibb.co/PwXYWZC/logo-Supveto05.jpg",
+            "alt": "logo de la Clinique vétérinaire de Linselles"
+        },
+        {
+            "image": "https://i.ibb.co/Kz5BW3zv/Logo-Doc-Nac.png",
+            "alt": "logo DocNac"
+        },
+        {
+            "image": "https://i.ibb.co/wr67xqYs/Logo-Sevetys.png",
+            "alt": "logo Sevetys Vétérinaires partenaires"
+        }
+  ],
+  "logosList3": [
+        { 
+            "image": "https://i.ibb.co/jrZ9y7j/logo-Supveto06.jpg",
+            "alt": "logo de la LPA"
+        },
+        {
+            "image": "https://i.ibb.co/mFnZNt1/logo-Supveto07.jpg",
+            "alt": "logo clinique vétérinaire"
+        },
+        {
+            "image": "https://i.ibb.co/r6kmn81/logo-Supveto08.jpg",
+            "alt": "logo de Biotopia"
+        }
+  ],
+  "logosList4": [      
+        {
+            "image": "https://i.ibb.co/s2pZHFf/logo-Supveto09.jpg",
+            "alt": "logo AniCura"
+        },
+        {
+            "image": "https://i.ibb.co/B5FKKSzP/LogoVet.png",
+            "alt": "logo de la clinique vétérinaire Vet+"
+        },
+        {
+            "image": "https://i.ibb.co/yBfDsZbJ/Logo-IVC-Evidensia.png",
+                "alt": "logo IVC Evidensia"
+        }
+    ]
+}
