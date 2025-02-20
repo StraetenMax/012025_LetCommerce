@@ -1,26 +1,30 @@
 {
   "logosList1": [
         {
-            "image": "https://i.ibb.co/QFWSt0w/logo-Supveto01.jpg",
-            "alt": "logo Hôpital vétérinaire des Laurentides"
+            "icon": "https://i.ibb.co/5nT0VG5/logo5.jpg",
+            "alt": "logo Danone agroalimentaire"
         },
         {
-            "image": "https://i.ibb.co/bgqVSsD/logo-Supveto02.jpg",
-            "alt": "logo Lux-Vet clinique vétérinaire"
+            "icon": "https://i.ibb.co/3frZQSL/logo4.jpg",
+            "alt": "logo snipes vêtement"
         },
         {
-            "image": "https://i.ibb.co/NLgM4B7/logo-Supveto04.jpg",
-            "alt": "logo du centre hôpitalier Vétérinaire Pommery"
+            "icon": "https://i.ibb.co/9Zn8sFY/logo3.jpg",
+            "alt": "logo l'Incroyable"
+        },
+        {
+            "icon": "https://i.ibb.co/PCdy14J/logo2.jpg",
+            "alt": "logo Lewis"
         }
     ],
     "logosList2": [        
         {
-            "image": "https://i.ibb.co/PwXYWZC/logo-Supveto05.jpg",
-            "alt": "logo de la Clinique vétérinaire de Linselles"
+            "icon": "https://i.ibb.co/1JtDdjZ/logo10.jpg",
+            "alt": "logo D2R"
         },
         {
-            "image": "https://i.ibb.co/Kz5BW3zv/Logo-Doc-Nac.png",
-            "alt": "logo DocNac"
+            "icon": "https://i.ibb.co/r5CSJTZ/logo9.jpg",
+            "alt": "logo Boulanger Electroménager"
         },
         {
             "image": "https://i.ibb.co/wr67xqYs/Logo-Sevetys.png",
