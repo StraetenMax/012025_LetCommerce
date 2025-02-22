@@ -27,36 +27,48 @@
             "alt": "logo Boulanger Electroménager"
         },
         {
-            "image": "https://i.ibb.co/wr67xqYs/Logo-Sevetys.png",
-            "alt": "logo Sevetys Vétérinaires partenaires"
+            "icon":"https://i.ibb.co/1fmQhDB/logo8.jpg",
+            "alt":"logo Internarché"
+        },
+        {
+            "icon":"https://i.ibb.co/TvFhqZ6/logo7.jpg",
+            "alt":"logo Bouygues Télécom"
         }
   ],
   "logosList3": [
-        { 
-            "image": "https://i.ibb.co/jrZ9y7j/logo-Supveto06.jpg",
-            "alt": "logo de la LPA"
+        {
+            "icon":"https://i.ibb.co/vzfDp26/logo6.jpg",
+            "alt":"logo Norauto"
         },
         {
-            "image": "https://i.ibb.co/mFnZNt1/logo-Supveto07.jpg",
-            "alt": "logo clinique vétérinaire"
+            "icon":"https://i.ibb.co/JtjjLqW/logo16.jpg",
+            "alt":"logo des magasins U"
         },
         {
-            "image": "https://i.ibb.co/r6kmn81/logo-Supveto08.jpg",
-            "alt": "logo de Biotopia"
+            "icon":"https://i.ibb.co/6PXjrWM/logo12.jpg",
+            "alt":"logo de la chaîne de magasins Bureau Vallée"
+        },
+        {
+            "icon":"https://i.ibb.co/gMT39C5/logo14.jpg",
+            "alt":"logo Vaporama"
         }
   ],
   "logosList4": [      
         {
-            "image": "https://i.ibb.co/s2pZHFf/logo-Supveto09.jpg",
-            "alt": "logo AniCura"
+            "icon":"https://i.ibb.co/rwCsPwv/logo13.jpg",
+            "alt":"logo B&M"
         },
         {
-            "image": "https://i.ibb.co/B5FKKSzP/LogoVet.png",
-            "alt": "logo de la clinique vétérinaire Vet+"
+            "icon":"https://i.ibb.co/3BkGVdJ/logo15.jpg",
+            "alt":"logo Jeff de Bruges"
         },
         {
-            "image": "https://i.ibb.co/yBfDsZbJ/Logo-IVC-Evidensia.png",
-                "alt": "logo IVC Evidensia"
+            "icon":"https://i.ibb.co/jzx6wwD/Logo17.jpg",
+            "alt":"logo first burger"
+        },
+        {
+            "icon":"https://i.ibb.co/1nyt9QW/logo1.jpg",
+            "alt":"logo Carefour"
         }
     ]
 }
