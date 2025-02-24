@@ -18,9 +18,9 @@
       <mj-class name="cO" color="#EC6608"></mj-class>
       <mj-spacer height="0"></mj-spacer>
     </mj-attributes>
-    <mj-breakpoint width="500px"></mj-breakpoint>
+    <mj-breakpoint width="480px"></mj-breakpoint>
     <mj-style>
-      @media(max-width: 500px){
+      @media(max-width: 480px){
           .espace{
               height: 50px !important;
           }
@@ -29,19 +29,78 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#edf2f7">
-    <mj-section background-color="#fbc49d" padding-bottom="10px">
+    <mj-section background-color="#ffffff" padding="0px">
       <mj-column width="320px" vertical-align="top">
-        <mj-image border="none" width="480px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"></mj-image>
-      </mj-column>
-      <mj-column width="160px" background-color="#f77a22" border-radius="0px 40px 0px 0px">
-        <mj-image align="left" border="none" width="50px" src="https://i.ibb.co/Mskj4kV/Marie-Laurence.jpg" alt="Laurence Wallaert responsable pédagogique"/>
-        <mj-text align="left" mj-class="dTs cB" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Marie-Laurence</span> <span style="text-transform:uppercase;font-weight:700;">Wallaert</span></mj-text>
-        <mj-text align="left" mj-class="dTs cB" padding-top="0">Responsable pédagogique Ecosup-commerce</mj-text>
+        <mj-image width="100px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EC6608" padding="0">
+      <mj-group width="40%">
+        <mj-column width="30%" padding="10px">
+          <mj-image align="right" padding="0" width="50px" src="https://i.ibb.co/Mskj4kV/Marie-Laurence.jpg" alt="Laurence Wallaert responsable pédagogique"/>
+        </mj-column>
+        <mj-column width="70%" padding="10px">
+          <mj-text align="left" mj-class="dTs cB" padding="0"><span style="font-weight:700;">Marie-Laurence</span> <span style="text-transform:uppercase;font-weight:700;">Wallaert</span></mj-text>
+          <mj-text align="left" mj-class="dTs cB" padding="0">Responsable pédagogique Ecosup-commerce</mj-text>
+        </mj-column>
+        <mj-column width="100%" background-color="#f77a22" vertical-align="bottom" padding="10px">
+          <mj-text align="left" padding="0" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter</mj-text>
+          <mj-text align="left" padding="0" font-size="16px" line-height="20px" font-weight="300" color="#000000">Ecosup Commerce</mj-text>
+          <mj-text align="left" padding="0" font-size="16px" line-height="20px" font-weight="300" color="#000000"><span style="font-weight:700;color:#ffffff">Février 2025</span></mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-column width="60%">
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/G9QRxrt/jpo-Group30012025.jpg" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
       <mj-column width="480px">
-        <mj-text align="left" padding-top="5px" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter Ecosup Commerce / <span style="font-weight:700;color:#ffffff">Février 2025</span></mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="dH2 cOF" text-transform="uppercase">Immersion </mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO">A la rencontre des étudiants MCO en apprentissage dans leur entreprise</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column background-color="#edf2f7">
+        <mj-image padding="0" width="480px" src="https://i.ibb.co/HtdqrSN/let-Com01-122024.jpg" alt="Méliwe alternant BTS MCO chez B&amp;M"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="60px" src="https://i.ibb.co/N31TdRd/B-M.png" alt="logo B&amp;M"></mj-image>
+        <mj-text mj-class="dH1" padding-top="0">Méliwe</mj-text>
+        <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;color:#AA3E17;">Missions :</span> Mise en rayon, Respect du merchandising, Organisation d'opérations commerciales, Missions de management, Conseil et Vente...</mj-text>
+        <mj-spacer css-class="espace"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0" direction="rtl">
+      <mj-column background-color="#edf2f7">
+        <mj-image padding="0" width="480px" src="https://i.ibb.co/CHXc8q7/let-Com04-122024.jpg" alt="Benjamin alternant BTS MCO chez Levi's Strauss"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="60px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Levi's"></mj-image>
+        <mj-text mj-class="dH1" padding-top="0">Benjamin</mj-text>
+        <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700; color:#AA3E17;">Missions :</span> Mise en rayon, Suivi du merchandising, Conseil et Vente, Communication sur les réseaux sociaux...</mj-text>
+        <mj-spacer css-class="espace"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column background-color="#edf2f7">
+        <mj-image padding="0" width="480px" src="https://i.ibb.co/9bs2fGL/let-Com02-122024.jpg" alt="Chloe, alternant BTS MCO chez Carefour"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="60px" src="https://i.ibb.co/1nyt9QW/logo1.jpg" alt="logo Carefour"></mj-image>
+        <mj-text mj-class="dH1" padding-top="0">Chloe</mj-text>
+        <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;color:#AA3E17;">Missions :</span> Mise en rayon, Respect du merchandising, Organisation d'opérations commerciales, Missions de management, Gestion des livraisons et des stocks...</mj-text>
+        <mj-spacer css-class="espace"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="40px" direction="rtl">
+      <mj-column background-color="#edf2f7">
+        <mj-image padding="0" width="480px" src="https://i.ibb.co/MZt0XtQ/let-Com03-122024.jpg" alt="Erickson alternant BTS MCO chez Bouygues Télécom"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="60px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues"></mj-image>
+        <mj-text mj-class="dH1" padding-top="0">Erickson</mj-text>
+        <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;color:#AA3E17;">Missions :</span> Mise en rayon, Respect du merchandising, Missions de management, Conseil et Vente...</mj-text>
+        <mj-spacer css-class="espace"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
