@@ -87,13 +87,13 @@
         <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-bottom="0">
+    <mj-section padding-bottom="0">
       <mj-column width="480px">
         <mj-text padding-bottom="0" padding-top="0" mj-class="dH2 cOF" text-transform="uppercase">Agenda</mj-text>
         <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO">Salon et Journées Portes Ouvertes</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-bottom="40px"> 
+    <mj-section padding-bottom="40px"> 
       <mj-group width="480px">
         <mj-column width="33,333333%" padding="2px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
@@ -106,67 +106,67 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#FDE2CE" padding-bottom="0">
+    <mj-section padding-bottom="0">
       <mj-column width="480px">
-        <mj-text padding-bottom="0" padding-top="0" mj-class="dH2 cOF" text-transform="uppercase">Partenaires</mj-text>
-        <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO"><span style="font-weight:700">Entreprises partenaires</span> qui accueillent nos étudiants</mj-text>
+        <mj-text padding="0" mj-class="dH2 cOF" text-transform="uppercase">Partenaires</mj-text>
+        <mj-text padding="0" padding-top="0" mj-class="dH1 cO"><span style="font-weight:700">Entreprises partenaires</span> qui accueillent nos étudiants</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#FDE2CE" padding-bottom="40px"> 
+    <mj-section padding="20px 23px 40px 23px"> 
       <mj-group width="240px">
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/5nT0VG5/logo5.jpg" alt="logo Danone agroalimentaire"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/5nT0VG5/logo5.jpg" alt="logo Danone agroalimentaire"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3frZQSL/logo4.jpg" alt="logo snipes vêtement"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3frZQSL/logo4.jpg" alt="logo snipes vêtement"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/9Zn8sFY/logo3.jpg" alt="logo l'Incroyable"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/9Zn8sFY/logo3.jpg" alt="logo l'Incroyable"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Lewis"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Lewis"/>
         </mj-column>
       </mj-group>
       <mj-group width="240px">
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1JtDdjZ/logo10.jpg" alt="logo D2R"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1JtDdjZ/logo10.jpg" alt="logo D2R"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/r5CSJTZ/logo9.jpg" alt="logo Boulanger Electroménager"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/r5CSJTZ/logo9.jpg" alt="logo Boulanger Electroménager"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Internarché"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Internarché"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Télécom"/>
-        </mj-column>
-      </mj-group>
-      <mj-group width="240px">
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/vzfDp26/logo6.jpg" alt="logo Norauto"/>
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/JtjjLqW/logo16.jpg" alt="logo des magasins U"/>
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/6PXjrWM/logo12.jpg" alt="logo de la chaîne de magasins Bureau Vallée"/>
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/gMT39C5/logo14.jpg" alt="logo Vaporama"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Télécom"/>
         </mj-column>
       </mj-group>
       <mj-group width="240px">
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/rwCsPwv/logo13.jpg" alt="logo B&amp;M"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/vzfDp26/logo6.jpg" alt="logo Norauto"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/JtjjLqW/logo16.jpg" alt="logo des magasins U"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/jzx6wwD/Logo17.jpg" alt="logo first burger"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/6PXjrWM/logo12.jpg" alt="logo de la chaîne de magasins Bureau Vallée"/>
         </mj-column>
         <mj-column width="25%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1nyt9QW/logo1.jpg" alt="logo Carefour"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/gMT39C5/logo14.jpg" alt="logo Vaporama"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="240px">
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/rwCsPwv/logo13.jpg" alt="logo B&amp;M"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/jzx6wwD/Logo17.jpg" alt="logo first burger"/>
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1nyt9QW/logo1.jpg" alt="logo Carefour"/>
         </mj-column>
       </mj-group>
     </mj-section>
