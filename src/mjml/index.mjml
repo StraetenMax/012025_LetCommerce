@@ -168,16 +168,16 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#EC6608">
+    <mj-section background-color="#EC6608" padding="0">
       <mj-column width="480px">
-        <mj-social inner-padding="0 20px" icon-size="25px" mode="horizontal">
+        <mj-social inner-padding="0 20px" icon-size="20px" mode="horizontal">
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#dce6ef" padding="0">
+    <mj-section background-color="#dce6ef">
       <mj-column width="480px">
         <mj-image padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed0f9d8a3bdbe17813ef.png" alt="Logo Ecosup-Campus"/>
         <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="dTs cT">17 Place Charles et Albert Roussel</mj-text>
