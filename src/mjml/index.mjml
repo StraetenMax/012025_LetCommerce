@@ -16,8 +16,8 @@
       <mj-class name="dTs" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" font-weight="300" line-height="16px"/>
       <mj-class name="cB" color="#2D3748"/>
       <mj-class name="cOF" color="#AA3E17"/>
-      <mj-class name="cO" color="#EC6608"></mj-class>
-      <mj-spacer height="0"></mj-spacer>
+      <mj-class name="cO" color="#EC6608"/>
+      <mj-spacer height="0"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
     <mj-style>
@@ -46,7 +46,7 @@
         </mj-column>
       </mj-group>
       <mj-column width="60%">
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/G9QRxrt/jpo-Group30012025.jpg" alt=""></mj-image>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/G9QRxrt/jpo-Group30012025.jpg" alt=""/>
       </mj-column>
       <mj-column width="100%" background-color="#f77a22" vertical-align="bottom">
         <mj-text align="left" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter Ecosup Commerce / <span style="font-weight:700;color:#ffffff">Février 2025</span></mj-text>
@@ -93,13 +93,13 @@
     </mj-section>
     <mj-section background-color="#dce6ef" padding-bottom="40px" padding="20px 17px"> 
       <mj-group width="480px">
-        <mj-column width="33,333333%" padding="8px">
+        <mj-column width="33.333333%" padding="8px">
           <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
         </mj-column>
-        <mj-column width="33,333333%" padding="8px">
+        <mj-column width="33.333333%" padding="8px">
           <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"/>
         </mj-column>
-        <mj-column width="33,333333%" padding="8px">
+        <mj-column width="33.333333%" padding="8px">
           <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/fQMvYww/img-JPO30012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 30 janvier 2025 de 17h à 19h"/>
         </mj-column>
       </mj-group>
@@ -170,7 +170,7 @@
     </mj-section>
     <mj-section background-color="#EC6608" padding="0">
       <mj-column width="480px">
-        <mj-social inner-padding="0 20px" icon-size="20px" mode="horizontal">
+        <mj-social align="center" inner-padding="0 20px" icon-size="20px" mode="horizontal">
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
