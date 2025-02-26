@@ -30,9 +30,9 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#edf2f7">
-    <mj-section background-color="#ffffff" padding="0px">
-      <mj-column width="320px" vertical-align="top">
-        <mj-image width="100px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"></mj-image>
+    <mj-section>
+      <mj-column>
+        <mj-image align="left" width="150px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EC6608" padding="0">
@@ -54,6 +54,28 @@
         <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/G9QRxrt/jpo-Group30012025.jpg" alt=""></mj-image>
       </mj-column>
     </mj-section>
+    <mj-section padding-left="17px" padding-right="17px">
+      <mj-column width="50%" padding="8px">
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/RjBLrcJ/let2-062024.jpg" href="https://ecosup-assurance.fr/interview-camille/" alt="Camille G étudiante en BTS Assurance à Ecosup Campus"/>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Interview</mj-text>
+        <mj-text padding="0" align="left" mj-class="dH2 cOF">Camille a choisi Ecosup Assurance pour préparer le BTS Assurance</mj-text>
+        <mj-text padding="0" mj-class="dT">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
+        <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="17px" padding-right="17px" direction="rtl">
+      <mj-column width="50%" padding="8px">
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/RjBLrcJ/let2-062024.jpg" href="https://ecosup-assurance.fr/interview-camille/" alt="Camille G étudiante en BTS Assurance à Ecosup Campus"/>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Interview</mj-text>
+        <mj-text padding="0" align="left" mj-class="dH2 cOF">Camille a choisi Ecosup Assurance pour préparer le BTS Assurance</mj-text>
+        <mj-text padding="0" mj-class="dT">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
+        <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="50%" padding="8px">
         <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/RjBLrcJ/let2-062024.jpg" href="https://ecosup-assurance.fr/interview-camille/" alt="Camille G étudiante en BTS Assurance à Ecosup Campus"/>
@@ -65,35 +87,13 @@
         <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px" direction="rtl">
-      <mj-column width="50%" padding="8px">
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/RjBLrcJ/let2-062024.jpg" href="https://ecosup-assurance.fr/interview-camille/" alt="Camille G étudiante en BTS Assurance à Ecosup Campus"/>
-      </mj-column>
-      <mj-column width="50%" padding="8px">
-        <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Interview</mj-text>
-        <mj-text padding="0" align="left" mj-class="dH2 cOF">Camille a choisi Ecosup Assurance pour préparer le BTS Assurance</mj-text>
-        <mj-text padding="0" mj-class="dT">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
-        <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
-      <mj-column width="50%" padding="8px">
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/RjBLrcJ/let2-062024.jpg" href="https://ecosup-assurance.fr/interview-camille/" alt="Camille G étudiante en BTS Assurance à Ecosup Campus"/>
-      </mj-column>
-      <mj-column width="50%" padding="8px">
-        <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Interview</mj-text>
-        <mj-text padding="0" align="left" mj-class="dH2 cOF">Camille a choisi Ecosup Assurance pour préparer le BTS Assurance</mj-text>
-        <mj-text padding="0" mj-class="dT">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
-        <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding-top="20px" padding-bottom="0" padding-left="17px" padding-right="17px">
+    <mj-section background-color="#dce6ef" padding-top="20px" padding-bottom="0" padding-left="17px" padding-right="17px">
       <mj-column width="480px" padding="0 8px">
         <mj-text padding="0" mj-class="dH2 cOF" text-transform="uppercase">Agenda</mj-text>
         <mj-text padding="0" mj-class="dH1 cO">Salon et Journées Portes Ouvertes</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding-bottom="40px" padding="20px 17px"> 
+    <mj-section background-color="#dce6ef" padding-bottom="40px" padding="20px 17px"> 
       <mj-group width="480px">
         <mj-column width="33,333333%" padding="8px">
           <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
