@@ -52,19 +52,14 @@
         <mj-text align="left" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter Ecosup Commerce / <span style="font-weight:700;color:#ffffff">Mars 2025</span></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="0px">
-      <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/cc1V93PM/news-Bandeau022025.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Assurance, jeunes filles et garçons futurs étudiants d'Ecosup Assurance"/>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="40px">
+    <mj-section padding-top="10px" padding-bottom="40px">
       <mj-column width="88%"> 
-        <mj-text padding-top="5px" padding-bottom="0" mj-class="T+2 cA+2" text-transform="uppercase">Édito</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T700 cT+1" font-style="italic">La rentrée des alternances est lancée&nbsp;!</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T400 cT-0" font-style="italic">C'est réellement parti&nbsp;! Les campagnes d'alternance battent leur plein, et c'est dans cette période riche et dynamique que les candidats viennent à notre rencontre pour bénéficier de nos formations. Que ce soit pour un <span style="font-weight:700;color:#2D3748;">BTS Assurance</span>, un <span style="font-weight:700;color:#2D3748;">Bachelor Chargée de Clientèle en Assurance et Banque</span> ou un <span style="font-weight:700;color:#2D3748;">Mastère Expert en Ingénierie Patrimoniale</span>, les postulants sont prêts à relever de nouveaux défis&nbsp;! </mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T400 cT-0" font-style="italic">Grâce à la confiance de <span style="font-weight:700;color:#2D3748;">nos entreprises partenaires</span>, nos étudiants ont l'opportunité de poursuivre leur parcours académique tout en gagnant en expérience sur le terrain. Ces entreprises nous font l'honneur de les accompagner en offrant des postes en alternance, propices à l'épanouissement professionnel de nos talents.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T400 cT-0" font-style="italic">Les entreprises peuvent d'ores et déjà découvrir les profils de nos futurs alternants, disponibles dans un espace dédié sur notre site. C'est l'occasion idéale de saisir de belles opportunités et de se lancer dans une aventure professionnelle enrichissante&nbsp;!</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T700 cT+1" font-style="italic">À vos candidatures, prêts, partez&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" mj-class="dH3 cO" text-transform="uppercase">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="dH2 cOF" font-style="normal">La rentrée des alternances est lancée&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="dT" font-style="italic">C'est réellement parti&nbsp;! Les campagnes d'alternance battent leur plein, et c'est dans cette période riche et dynamique que les candidats viennent à notre rencontre pour bénéficier de nos formations. Que ce soit pour un <span style="font-weight:700;color:#2D3748;">BTS Management Commercial Opérationnel</span> ou un <span style="font-weight:700;color:#2D3748;">Bachelor Responsable Développement Commercial</span>, les candidats sont prêts à relever de nouveaux défis&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="dT" font-style="italic">Grâce à la confiance de <span style="font-weight:700;color:#2D3748;">nos entreprises partenaires</span>, nos étudiants ont l'opportunité de poursuivre leur parcours académique tout en gagnant en expérience sur le terrain. Ces entreprises nous font l'honneur de les accompagner en offrant des postes en alternance, propices à l'épanouissement professionnel de nos talents.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="dT" font-style="italic">Les entreprises peuvent d'ores et déjà découvrir les profils de nos futurs alternants, disponibles dans un espace dédié sur notre site. C'est l'occasion idéale de saisir de belles opportunités et de se lancer dans une aventure professionnelle enrichissante&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="dT" font-style="italic">À vos candidatures, prêts, partez&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-left="17px" padding-right="17px">
