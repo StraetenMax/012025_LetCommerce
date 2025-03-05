@@ -15,9 +15,7 @@
         {
             "icon": "https://i.ibb.co/PCdy14J/logo2.jpg",
             "alt": "logo Lewis"
-        }
-    ],
-    "logosList2": [        
+        },        
         {
             "icon": "https://i.ibb.co/1JtDdjZ/logo10.jpg",
             "alt": "logo D2R"
@@ -35,7 +33,7 @@
             "alt":"logo Bouygues Télécom"
         }
   ],
-  "logosList3": [
+  "logosList2": [
         {
             "icon":"https://i.ibb.co/vzfDp26/logo6.jpg",
             "alt":"logo Norauto"
@@ -51,9 +49,7 @@
         {
             "icon":"https://i.ibb.co/gMT39C5/logo14.jpg",
             "alt":"logo Vaporama"
-        }
-  ],
-  "logosList4": [      
+        },     
         {
             "icon":"https://i.ibb.co/rwCsPwv/logo13.jpg",
             "alt":"logo B&M"
