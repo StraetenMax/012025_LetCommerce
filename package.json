@@ -1,5 +1,5 @@
 {
-  "name": "let_commerce_2025",
+  "name": "jpo29032025",
   "version": "1.0.0",
   "description": "Email template build process",
   "main": "gulpfile.js",
@@ -14,6 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "cheerio": "^1.0.0",
+    "del": "^8.0.0",
     "gulp": "^5.0.0",
     "gulp-clean": "^0.4.0",
     "gulp-filesize": "^0.0.1",

@@ -4,21 +4,13 @@ import JSON5 from 'json5';
 import mjml from 'mjml';
 import { minify as htmlmin } from 'html-minifier-terser';
 import rename from 'gulp-rename';
-import clean from 'gulp-clean';
+import { deleteAsync } from 'del';
 import through2 from 'through2';
-//-import htmlhint from 'gulp-htmlhint';
 import { load } from 'cheerio';
-import filesize from 'gulp-filesize';
-import imagemin from 'gulp-imagemin';
-import gifsicle from 'imagemin-gifsicle';
-import mozjpeg from 'imagemin-mozjpeg';
-import optipng from 'imagemin-optipng';
 import liveServer from 'live-server';
 import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { promises as fs } from 'fs'; // Ajouté pour lire le fichier JSON
-//import loadConfigs from './path-to-your-config-loader.mjs'; // Assurez-vous que ce chemin est correct
-//-import { mkdir } from 'fs/promises'; // Pour créer des répertoires
 
 // Définit --dirname
 const __filename = fileURLToPath(import.meta.url);
@@ -60,41 +52,33 @@ const ensureDistDirectory = async () => {
 };
 
 // Serveur
+// Démarrage du serveur Live avec désactivation du cache
 const serve = (done) => {
     const params = {
-        port: 8080,
-        root: path.resolve(__dirname, './dist'),
-        open: true,
-        file: 'index.html',
-        wait: 500,
-        logLevel: 2, //Niveau de journalisation (0 = désactivé, 1 = erreurs, 2 = infos, 3 = debogage )
+      port: 8080,
+      root: path.resolve(__dirname, './dist'),
+      open: true,
+      file: 'index.html',
+      wait: 500,
+      logLevel: 2, //Niveau de journalisation (0 = désactivé, 1 = erreurs, 2 = infos, 3 = debogage )
+      middleware: [
+        (req, res, next) => {
+          res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+          res.setHeader('Pragma', 'no-cache');
+          res.setHeader('Expires', '0');
+          next();
+        }
+      ]
     };
-    try {
-        liveServer.start(params);
-        console.log('Live Server started on port', params.port);
-    } catch (error){
-        console.error('Error starting Live Server:', error);
-    }
+    liveServer.start(params);
+    console.log('Live Server started on port', params.port);
     done();
-};
-
-// Compression des images
-const compressImg = () => {
-    return gulp.src('./src/images/*.{png,jpg,gif}')
-        .pipe(filesize({ title: 'Taille des images avant compression' }))
-        .pipe(imagemin([
-            gifsicle({ interlaced: true, optimizationLevel: 3 }),
-            mozjpeg({ quality: 75, progressive: true }),
-            optipng({ optimizationLevel: 5 }),
-        ]))
-        .pipe(filesize({ title: 'Taille des images après compression' }))
-        .pipe(gulp.dest('./dist/images'));
-};
+  };
 
 // Nettoyage
 const cleanDist = () => {
-    return gulp.src('./dist', { allowEmpty: true, read: false })
-        .pipe(clean());
+    // Utilise deleteAsync au lieu de del
+    return deleteAsync(['./dist/*', '!./dist/images']);
 };
 
 // Pug vers Mjml
@@ -160,7 +144,7 @@ const mjmlToHtml = async () => {
     .pipe(gulp.dest('./dist'));
 };
 
-// Minification HTML----------------------------------------------------------------------------------------------------------------------
+// Minification HTML
 const minifyHtml = () => {
     return new Promise((resolve) => {
         // Petit délai pour s'assurer que les fichiers sont bien créés
@@ -203,7 +187,7 @@ const minifyHtml = () => {
     });
 };
 
-// Vérification du poids et des attributs alt--------------------------------------------------------------------------------
+// Vérification du poids et des attributs alt
 const customFilesize = () => {
     return through2.obj(function (file, _, cb) {
         if (file.isBuffer()) {
@@ -233,18 +217,15 @@ const verification = () => {
 };
 
 
-
-// Watch ------------------------------------------------------------------------------------------------------------------------------
+// Watch
 const watch = () => {
     gulp.watch('./src/**/*.pug', gulp.series(pugToMjml, mjmlToHtml, minifyHtml, verification,));
-    gulp.watch('./src/images/**/*', gulp.series(compressImg));
 };
 
-// Tâche par défaut---------------------------------------------------------------------------------------------------------------------
+// Tâche par défaut
 const defaultTask = gulp.series(
     cleanDist,
     ensureDistDirectory, // Ajoutez cette tâche ici
-    gulp.parallel(compressImg),
     pugToMjml,
     mjmlToHtml, // Appeler mjmlToHtml comme une fonction asynchrone
     (done) => {
@@ -255,4 +236,4 @@ const defaultTask = gulp.series(
 );
 
 // Export des tâches
-export { serve, verification, compressImg, cleanDist, pugToMjml, mjmlToHtml, minifyHtml, watch, defaultTask as default };
+export { serve, verification, cleanDist, pugToMjml, mjmlToHtml, minifyHtml, watch, defaultTask as default };
