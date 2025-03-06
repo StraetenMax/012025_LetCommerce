@@ -171,10 +171,10 @@
     </mj-section>
     <mj-section background-color="#EC6608" padding="0">
       <mj-column width="480px">
-        <mj-social align="center" inner-padding="0 20px" icon-size="20px" mode="horizontal">
-          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
-          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
-          <mj-social-element src="./images/instagramR.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
+        <mj-social align="center" inner-padding="0 20px" icon-size="30px" mode="horizontal">
+          <mj-social-element src="./images/linkedinRY.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
+          <mj-social-element src="./images/facebookRY.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
+          <mj-social-element src="./images/instagramRY.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
