@@ -102,10 +102,10 @@
       </mj-column>
       <mj-group width="60%">
         <mj-column width="50%" padding="8px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="./images/afJpo032025.png" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
         </mj-column>
         <mj-column width="50%" padding="8px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="./images/afEtudiants032025.png" alt="Affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"/>
         </mj-column>
       </mj-group>
     </mj-section>
