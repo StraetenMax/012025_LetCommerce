@@ -60,7 +60,7 @@
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Dossier</mj-text>
         <mj-text padding="0" align="left" mj-class="dH2 cOF">L'alternance : un modèle éducatif qui a le vent en poupe</mj-text>
-        <mj-text padding="0" mj-class="dT">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
+        <mj-text padding="0" mj-class="dT">L'alternance combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mêlant théorie et pratique. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des compétences recherchées et un réseau. Deux contrats existent : apprentissage (pour un diplôme) et professionnalisation (pour l'emploi). Trouver une école et une entreprise est essentiel. L'alternance facilite l'accès à des secteurs porteurs et améliore l'employabilité des jeunes.</mj-text>
         <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
@@ -71,7 +71,7 @@
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0" align="left" mj-class="dH2 cOF">Décrocher son contrat d'alternance : 3 étapes clés pour réussir</mj-text>
-        <mj-text padding="0" mj-class="dT">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
+        <mj-text padding="0" mj-class="dT">Pour décrocher une alternance, définissez vos objectifs, ciblez les entreprises et utilisez les plateformes d'emploi. Soignez CV et lettre de motivation, personnalisez-les pour chaque offre. Préparez vos entretiens en vous renseignant sur l'entreprise. Soyez persévérant, l'alternance est avant tout une formation.</mj-text>
         <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
@@ -82,7 +82,7 @@
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">BTS MCO</mj-text>
         <mj-text padding="0" align="left" mj-class="dH2 cOF">Semaine de regroupement&nbsp;: immersion et découvertes pour les BTS&nbsp;MCO&nbsp;!</mj-text>
-        <mj-text padding="0" mj-class="dT">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
+        <mj-text padding="0" mj-class="dT">Les BTS MCO ont vécu une semaine enrichissante à Ecosup Commerce avec des ateliers digitaux, une immersion en restauration sur le thème "À TABLE" et une préparation à l'épreuve de 2025. Prochaine étape&nbsp;: entrepreneuriat&nbsp;!</mj-text>
         <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
