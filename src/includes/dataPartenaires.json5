@@ -35,35 +35,35 @@
   ],
   "logosList2": [
         {
-            "icon":"https://i.ibb.co/vzfDp26/logo6.jpg",
+            "icon":"./images/nauroto.png",
             "alt":"logo Norauto"
         },
         {
-            "icon":"https://i.ibb.co/JtjjLqW/logo16.jpg",
+            "icon":"./images/systemU.png",
             "alt":"logo des magasins U"
         },
         {
-            "icon":"https://i.ibb.co/6PXjrWM/logo12.jpg",
+            "icon":"./images/bureauVallee.png",
             "alt":"logo de la chaîne de magasins Bureau Vallée"
         },
         {
-            "icon":"https://i.ibb.co/gMT39C5/logo14.jpg",
+            "icon":"./images/vaporama.png",
             "alt":"logo Vaporama"
         },     
         {
-            "icon":"https://i.ibb.co/rwCsPwv/logo13.jpg",
+            "icon":"./images/B&M.png",
             "alt":"logo B&M"
         },
         {
-            "icon":"https://i.ibb.co/3BkGVdJ/logo15.jpg",
+            "icon":"./images/jeffBruges.png",
             "alt":"logo Jeff de Bruges"
         },
         {
-            "icon":"https://i.ibb.co/jzx6wwD/Logo17.jpg",
+            "icon":"./images/firstBurger.png",
             "alt":"logo first burger"
         },
         {
-            "icon":"https://i.ibb.co/1nyt9QW/logo1.jpg",
+            "icon":"./images/carrefour.png",
             "alt":"logo Carefour"
         }
     ]
