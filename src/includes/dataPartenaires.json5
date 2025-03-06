@@ -1,35 +1,35 @@
 {
   "logosList1": [
         {
-            "icon": "https://i.ibb.co/5nT0VG5/logo5.jpg",
+            "icon": "./images/danone.png",
             "alt": "logo Danone agroalimentaire"
         },
         {
-            "icon": "https://i.ibb.co/3frZQSL/logo4.jpg",
+            "icon": "./images/snipes.png",
             "alt": "logo snipes vêtement"
         },
         {
-            "icon": "https://i.ibb.co/9Zn8sFY/logo3.jpg",
+            "icon": "./images/incroyable.png",
             "alt": "logo l'Incroyable"
         },
         {
-            "icon": "https://i.ibb.co/PCdy14J/logo2.jpg",
+            "icon": "./images/lewis.png",
             "alt": "logo Lewis"
         },        
         {
-            "icon": "https://i.ibb.co/1JtDdjZ/logo10.jpg",
+            "icon": "./images/asso.png",
             "alt": "logo D2R"
         },
         {
-            "icon": "https://i.ibb.co/r5CSJTZ/logo9.jpg",
+            "icon": "./images/boulanger.png",
             "alt": "logo Boulanger Electroménager"
         },
         {
-            "icon":"https://i.ibb.co/1fmQhDB/logo8.jpg",
+            "icon":"./images/intermarche.png",
             "alt":"logo Internarché"
         },
         {
-            "icon":"https://i.ibb.co/TvFhqZ6/logo7.jpg",
+            "icon":"./images/bouygues.png",
             "alt":"logo Bouygues Télécom"
         }
   ],
