@@ -30,17 +30,17 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#edf2f7">
-    <mj-section>
+    <mj-section background-color="#dce6ef">
       <mj-column>
         <mj-image align="left" width="150px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"/>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column background-color="#f77a22">
-        <mj-text align="left" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter Ecosup Commerce / <span style="font-weight:700;color:#ffffff">Mars 2025</span></mj-text>
+        <mj-text align="left" font-size="16px" line-height="20px" font-weight="300" color="#2D3748">Newsletter Ecosup Commerce / <span style="font-weight:700;color:#ffffff">Mars 2025</span></mj-text>
       </mj-column>
     </mj-section>
-    <mj-wrapper background-color="#dce6ef" padding="30px 17px" padding-bottom="0">
+    <mj-wrapper padding="30px 17px" padding-bottom="0">
       <mj-section padding="0">
         <mj-group width="88%">
           <mj-column padding="8px">
