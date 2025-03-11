@@ -44,20 +44,20 @@
       <mj-section padding="0">
         <mj-group width="88%">
           <mj-column padding="8px">
-            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="./images/gImag01.png" alt="BTS MCO prmière année, apprenti chez B&amp;M"/>
+            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="https://i.ibb.co/KpVNv5kD/gImag01.png" alt="BTS MCO prmière année, apprenti chez B&amp;M"/>
           </mj-column>
           <mj-column padding="8px">
-            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="./images/gImag02.png" alt="Etudiants en formation BTS MCO"/>
+            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="https://i.ibb.co/VcBYn4NS/gImag02.png" alt="Etudiants en formation BTS MCO"/>
           </mj-column>
         </mj-group>
       </mj-section>
       <mj-section padding="0">
         <mj-group width="88%">
           <mj-column padding="8px" padding-bottom="16px">
-            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="./images/gImag03.png" alt="Remise de diplôme à la mairie de Tourcoing en janvier 2025"/>
+            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="https://i.ibb.co/RG404KFb/gImag03.png" alt="Remise de diplôme à la mairie de Tourcoing en janvier 2025"/>
           </mj-column>
           <mj-column padding="8px" padding-bottom="16px">
-            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="./images/gImag04.png" alt="Semaine de regroupement : immersion en restauration."/>
+            <mj-image padding="0" width="600px" fluid-on-mobile="true" src="https://i.ibb.co/PsdtHnGt/gImag04.png" alt="Semaine de regroupement : immersion en restauration."/>
           </mj-column>
         </mj-group>
       </mj-section>
@@ -86,7 +86,7 @@
     <mj-wrapper background-color="#dce6ef" padding="20px 17px">
       <mj-section padding="0" direction="rtl">
         <mj-column padding="8px">
-          <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/one.png" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe" alt="L'alternance, un modèle éducatif qui a le vent en poupe "/>
+          <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/Nd7b7NRz/one.png" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe" alt="L'alternance, un modèle éducatif qui a le vent en poupe "/>
         </mj-column>
         <mj-column padding="8px" vertical-align="bottom">
           <mj-text padding="0" align="left" mj-class="dH2 cOF" text-transform="uppercase">Dossier</mj-text>
@@ -105,7 +105,7 @@
     </mj-wrapper>
     <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="50%" padding="8px">
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/three.png" href="https://ecosup-commerce.fr/semaine-regroupement-immersion-et-decouvertes-bts-mco" alt="Semaine de regroupement: immersion et découvertes pour les BTS MCO"/>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/4RGmqBny/three.png" href="https://ecosup-commerce.fr/semaine-regroupement-immersion-et-decouvertes-bts-mco" alt="Semaine de regroupement: immersion et découvertes pour les BTS MCO"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">BTS MCO</mj-text>
@@ -116,7 +116,7 @@
     </mj-section>
     <mj-section padding-left="17px" padding-right="17px" direction="rtl">
       <mj-column width="50%" padding="8px">
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/two.png" href="https://ecosup-commerce.fr/decrocher-contrat-alternance-3-etapes-cles-pour-reussir" alt="Décrochez son contrat d'alternance : 3 étapes clés pour réussir"/>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/DDtX5qtv/two.png" href="https://ecosup-commerce.fr/decrocher-contrat-alternance-3-etapes-cles-pour-reussir" alt="Décrochez son contrat d'alternance : 3 étapes clés pour réussir"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Alternance</mj-text>
@@ -132,10 +132,10 @@
       </mj-column>
       <mj-group width="60%">
         <mj-column width="50%" padding="8px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="./images/afJpo032025.png" alt="Journée Portes Ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/JFrhSZBP/af-Jpo032025.png" alt="Journée Portes Ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
         </mj-column>
         <mj-column width="50%" padding="8px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="./images/afEtudiants032025.png" alt="Salon de l'Étudiants formations et recrutement en alternance le 21 et 22 mars 2025"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/9HcxgMyL/af-Etudiants032025.png" alt="Salon de l'Étudiants formations et recrutement en alternance le 21 et 22 mars 2025"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -148,63 +148,63 @@
     <mj-section padding="20px 23px 40px 23px"> 
       <mj-group width="88%">
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/danone.png" alt="logo Danone agroalimentaire"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/hJqL56Xk/danone.png" alt="logo Danone agroalimentaire"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/snipes.png" alt="logo snipes vêtement"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/fGDNVCN2/snipes.png" alt="logo snipes vêtement"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/incroyable.png" alt="logo l'Incroyable"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/ksx2jJtP/incroyable.png" alt="logo l'Incroyable"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/lewis.png" alt="logo Lewis"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/8gQg4hPh/lewis.png" alt="logo Lewis"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/asso.png" alt="logo D2R"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/HLfKw4Ww/asso.png" alt="logo D2R"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/boulanger.png" alt="logo Boulanger Electroménager"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/tTPGkzC4/boulanger.png" alt="logo Boulanger Electroménager"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/intermarche.png" alt="logo Internarché"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/LD4Tzc4k/intermarche.png" alt="logo Internarché"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/bouygues.png" alt="logo Bouygues Télécom"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/CKCrfDDn/bouygues.png" alt="logo Bouygues Télécom"/>
         </mj-column>
       </mj-group>
       <mj-group width="88%">
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/nauroto.png" alt="logo Norauto"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/ynFHBhGB/nauroto.png" alt="logo Norauto"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/systemU.png" alt="logo des magasins U"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/sY99s6v/systemU.png" alt="logo des magasins U"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/bureauVallee.png" alt="logo de la chaîne de magasins Bureau Vallée"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/GQLpx53L/bureau-Vallee.png" alt="logo de la chaîne de magasins Bureau Vallée"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/vaporama.png" alt="logo Vaporama"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/whh7hKQG/vaporama.png" alt="logo Vaporama"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/B&amp;M.png" alt="logo B&amp;M"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/ZzLxVznR/B-M.png" alt="logo B&amp;M"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/jeffBruges.png" alt="logo Jeff de Bruges"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/9HGCMrdT/jeff-Bruges.png" alt="logo Jeff de Bruges"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/firstBurger.png" alt="logo first burger"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/MkT3WC0R/first-Burger.png" alt="logo first burger"/>
         </mj-column>
         <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="./images/carrefour.png" alt="logo Carefour"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/tpfHtY88/carrefour.png" alt="logo Carefour"/>
         </mj-column>
       </mj-group>
     </mj-section>
     <mj-section background-color="#EC6608" padding="0">
       <mj-column width="480px">
         <mj-social align="center" inner-padding="0 20px" icon-size="30px" mode="horizontal">
-          <mj-social-element src="./images/linkedinRY.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
-          <mj-social-element src="./images/facebookRY.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
-          <mj-social-element src="./images/instagramRY.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/B5MhD5My/linkedin-RY.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/21J2NmD8/facebook-RY.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/xS4khv4Y/instagram-RY.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>

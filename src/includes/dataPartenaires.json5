@@ -1,69 +1,69 @@
 {
   "logosList1": [
         {
-            "icon": "./images/danone.png",
+            "icon": "https://i.ibb.co/hJqL56Xk/danone.png",
             "alt": "logo Danone agroalimentaire"
         },
         {
-            "icon": "./images/snipes.png",
+            "icon": "https://i.ibb.co/fGDNVCN2/snipes.png",
             "alt": "logo snipes vêtement"
         },
         {
-            "icon": "./images/incroyable.png",
+            "icon": "https://i.ibb.co/ksx2jJtP/incroyable.png",
             "alt": "logo l'Incroyable"
         },
         {
-            "icon": "./images/lewis.png",
+            "icon": "https://i.ibb.co/8gQg4hPh/lewis.png",
             "alt": "logo Lewis"
         },        
         {
-            "icon": "./images/asso.png",
+            "icon": "https://i.ibb.co/HLfKw4Ww/asso.png",
             "alt": "logo D2R"
         },
         {
-            "icon": "./images/boulanger.png",
+            "icon": "https://i.ibb.co/tTPGkzC4/boulanger.png",
             "alt": "logo Boulanger Electroménager"
         },
         {
-            "icon":"./images/intermarche.png",
+            "icon":"https://i.ibb.co/LD4Tzc4k/intermarche.png",
             "alt":"logo Internarché"
         },
         {
-            "icon":"./images/bouygues.png",
+            "icon":"https://i.ibb.co/CKCrfDDn/bouygues.png",
             "alt":"logo Bouygues Télécom"
         }
   ],
   "logosList2": [
         {
-            "icon":"./images/nauroto.png",
+            "icon":"https://i.ibb.co/ynFHBhGB/nauroto.png",
             "alt":"logo Norauto"
         },
         {
-            "icon":"./images/systemU.png",
+            "icon":"https://i.ibb.co/sY99s6v/systemU.png",
             "alt":"logo des magasins U"
         },
         {
-            "icon":"./images/bureauVallee.png",
+            "icon":"https://i.ibb.co/GQLpx53L/bureau-Vallee.png",
             "alt":"logo de la chaîne de magasins Bureau Vallée"
         },
         {
-            "icon":"./images/vaporama.png",
+            "icon":"https://i.ibb.co/whh7hKQG/vaporama.png",
             "alt":"logo Vaporama"
         },     
         {
-            "icon":"./images/B&M.png",
+            "icon":"https://i.ibb.co/ZzLxVznR/B-M.png",
             "alt":"logo B&M"
         },
         {
-            "icon":"./images/jeffBruges.png",
+            "icon":"https://i.ibb.co/9HGCMrdT/jeff-Bruges.png",
             "alt":"logo Jeff de Bruges"
         },
         {
-            "icon":"./images/firstBurger.png",
+            "icon":"https://i.ibb.co/MkT3WC0R/first-Burger.png",
             "alt":"logo first burger"
         },
         {
-            "icon":"./images/carrefour.png",
+            "icon":"https://i.ibb.co/tpfHtY88/carrefour.png",
             "alt":"logo Carefour"
         }
     ]
