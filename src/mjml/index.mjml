@@ -86,7 +86,7 @@
     <mj-wrapper background-color="#dce6ef" padding="20px 17px">
       <mj-section padding="0" direction="rtl">
         <mj-column padding="8px">
-          <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/one.png" href="#" alt="L'alternance, un modèle éducatif qui a le vent en poupe "/>
+          <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/one.png" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe" alt="L'alternance, un modèle éducatif qui a le vent en poupe "/>
         </mj-column>
         <mj-column padding="8px" vertical-align="bottom">
           <mj-text padding="0" align="left" mj-class="dH2 cOF" text-transform="uppercase">Dossier</mj-text>
@@ -99,30 +99,30 @@
         </mj-column>
         <mj-column padding="8px">
           <mj-text padding="0" mj-class="dT">Deux contrats existent&nbsp;: <span style="font-weight:700;color:#2D3748">apprentissage</span> <span style="font-style:italic">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic;">(pour l'emploi)</span>. Trouver une école et une entreprise est essentiel. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des <span style="font-weight:700;color:#2D3748;">secteurs porteurs</span> et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
-          <mj-text align="right" color="#EC6608" font-weight="700"><a href="#" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+          <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="50%" padding="8px">
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/three.png" href="#" alt="Semaine de regroupement: immersion et découvertes pour les BTS MCO"/>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/three.png" href="https://ecosup-commerce.fr/semaine-regroupement-immersion-et-decouvertes-bts-mco" alt="Semaine de regroupement: immersion et découvertes pour les BTS MCO"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">BTS MCO</mj-text>
         <mj-text padding="0" align="left" mj-class="dH2 cOF">Semaine de regroupement&nbsp;: immersion et découvertes pour les BTS&nbsp;MCO&nbsp;!</mj-text>
         <mj-text padding="0" mj-class="dT">Les <span style="font-weight:700;color:#2D3748;">BTS MCO</span> ont vécu une semaine enrichissante à <span style="font-weight:700;color:#2D3748;">Ecosup Commerce</span> avec des <span style="font-weight:700;color:#2D3748;">ateliers digitaux</span>, une <span style="font-weight:700;color:#2D3748;">immersion en restauration</span> sur le thème "À TABLE" et une préparation à l'épreuve de 2025. Prochaine étape&nbsp;: entrepreneuriat&nbsp;!</mj-text>
-        <mj-text align="right" color="#EC6608" font-weight="700"><a href="#" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+        <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-commerce.fr/semaine-regroupement-immersion-et-decouvertes-bts-mco" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-left="17px" padding-right="17px" direction="rtl">
       <mj-column width="50%" padding="8px">
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/two.png" href="#" alt="Décrochez son contrat d'alternance : 3 étapes clés pour réussir"/>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" target="_blank" src="./images/two.png" href="https://ecosup-commerce.fr/decrocher-contrat-alternance-3-etapes-cles-pour-reussir" alt="Décrochez son contrat d'alternance : 3 étapes clés pour réussir"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="dH3 cO" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0" align="left" mj-class="dH2 cOF">Décrocher son contrat d'alternance&nbsp;: 3 étapes clés pour réussir</mj-text>
         <mj-text padding="0" mj-class="dT">Pour décrocher une alternance, <span style="font-weight:700;color:#2D3748;">définissez vos objectifs</span>, ciblez les entreprises et utilisez les plateformes d'emploi. <span style="font-weight:700;color:#2D3748;">Soignez CV et lettre de motivation</span>, personnalisez-les pour chaque offre. <span style="font-weight:700;color:#2D3748;">Préparez vos entretiens</span> en vous renseignant sur l'entreprise. Soyez persévérant, l'alternance est avant tout une formation.</mj-text>
-        <mj-text align="right" color="#EC6608" font-weight="700"><a href="#" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+        <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-commerce.fr/decrocher-contrat-alternance-3-etapes-cles-pour-reussir" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#dce6ef" padding-bottom="40px" padding="20px 17px" direction="rtl"> 
