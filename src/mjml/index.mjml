@@ -1,11 +1,15 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Ecosup Commerce 022025</mj-title>
+    <mj-title>Ecosup Commerce 032025</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
     <mj-raw>
       <meta name="color-scheme" content="light"/>
       <meta name="supported-color-schemes" content="light"/>
+       <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica, sans-serif"/>
