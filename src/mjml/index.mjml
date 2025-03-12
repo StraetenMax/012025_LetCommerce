@@ -16,6 +16,7 @@
       <mj-class name="T16-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" font-weight="300" line-height="20px"/>
       <mj-class name="T12-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" font-weight="300" line-height="16px"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="10px" font-weight="300" line-height="14px"/>
+      <mj-class name="c" color="#455462"/>
       <mj-class name="cB" color="#2D3748"/>
       <mj-class name="cOF" color="#AA3E17"/>
       <mj-class name="cO" color="#EC6608"/>
@@ -71,7 +72,7 @@
         </mj-column>
         <mj-column width="70%" padding="10px">
           <mj-text align="left" mj-class="T12-300 cB" padding="0"><span style="font-weight:700;">Marie-Laurence</span> <span style="text-transform:uppercase;font-weight:700;">Wallaert</span></mj-text>
-          <mj-text align="left" mj-class="T12-300 cB" padding="0">Responsable pédagogique Ecosup-commerce</mj-text>
+          <mj-text align="left" mj-class="T12-300 c" padding="0">Responsable pédagogique Ecosup-commerce</mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -79,10 +80,10 @@
       <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="0" mj-class="H14-900 cO" text-transform="uppercase">Édito</mj-text>
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="H20-700 cOF" font-style="normal">La rentrée des alternances est lancée&nbsp;!</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300" font-style="italic">C'est réellement parti&nbsp;! Les campagnes d'alternance battent leur plein, et c'est dans cette période riche et dynamique que les candidats viennent à notre rencontre pour bénéficier de nos formations. Que ce soit pour un <span style="font-weight:700;color:#2D3748;">BTS Management Commercial Opérationnel</span> ou un <span style="font-weight:700;color:#2D3748;">Bachelor Responsable Développement Commercial</span>, les candidats sont prêts à relever de nouveaux défis&nbsp;!</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300" font-style="italic">Grâce à la confiance de <span style="font-weight:700;color:#2D3748;">nos entreprises partenaires</span>, nos étudiants ont l'opportunité de poursuivre leur parcours académique tout en gagnant en expérience sur le terrain. Ces entreprises nous font l'honneur de les accompagner en offrant des postes en alternance, propices à l'épanouissement professionnel de nos talents.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300" font-style="italic">Les entreprises peuvent d'ores et déjà découvrir les profils de nos futurs alternants, disponibles dans un espace dédié sur notre site. C'est l'occasion idéale de saisir de belles opportunités et de se lancer dans une aventure professionnelle enrichissante&nbsp;!</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300" font-style="italic">À vos candidatures, prêts, partez&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300 c" font-style="italic">C'est réellement parti&nbsp;! Les campagnes d'alternance battent leur plein, et c'est dans cette période riche et dynamique que les candidats viennent à notre rencontre pour bénéficier de nos formations. Que ce soit pour un <span style="font-weight:700;color:#2D3748;">BTS Management Commercial Opérationnel</span> ou un <span style="font-weight:700;color:#2D3748;">Bachelor Responsable Développement Commercial</span>, les candidats sont prêts à relever de nouveaux défis&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300 c" font-style="italic">Grâce à la confiance de <span style="font-weight:700;color:#2D3748;">nos entreprises partenaires</span>, nos étudiants ont l'opportunité de poursuivre leur parcours académique tout en gagnant en expérience sur le terrain. Ces entreprises nous font l'honneur de les accompagner en offrant des postes en alternance, propices à l'épanouissement professionnel de nos talents.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300 c" font-style="italic">Les entreprises peuvent d'ores et déjà découvrir les profils de nos futurs alternants, disponibles dans un espace dédié sur notre site. C'est l'occasion idéale de saisir de belles opportunités et de se lancer dans une aventure professionnelle enrichissante&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T16-300 c" font-style="italic">À vos candidatures, prêts, partez&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#dce6ef" padding="20px 17px">
@@ -97,10 +98,10 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column padding="8px">
-          <mj-text padding="0" mj-class="T16-300"><span style="font-weight:700;color:#2D3748;">L'alternance</span> combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mêlant théorie et pratique. Elle favorise l'<span style="font-weight:700;color:#2D3748;">insertion professionnelle</span> en permettant aux étudiants d'acquérir des <span style="font-weight:700;color:#2D3748;">compétences recherchées</span> et un réseau.</mj-text>
+          <mj-text padding="0" mj-class="T16-300 c"><span style="font-weight:700;color:#2D3748;">L'alternance</span> combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mêlant théorie et pratique. Elle favorise l'<span style="font-weight:700;color:#2D3748;">insertion professionnelle</span> en permettant aux étudiants d'acquérir des <span style="font-weight:700;color:#2D3748;">compétences recherchées</span> et un réseau.</mj-text>
         </mj-column>
         <mj-column padding="8px">
-          <mj-text padding="0" mj-class="T16-300">Deux contrats existent&nbsp;: <span style="font-weight:700;color:#2D3748">apprentissage</span> <span style="font-style:italic">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic;">(pour l'emploi)</span>. Trouver une école et une entreprise est essentiel. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des <span style="font-weight:700;color:#2D3748;">secteurs porteurs</span> et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
+          <mj-text padding="0" mj-class="T16-300 c">Deux contrats existent&nbsp;: <span style="font-weight:700;color:#2D3748">apprentissage</span> <span style="font-style:italic">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic;">(pour l'emploi)</span>. Trouver une école et une entreprise est essentiel. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des <span style="font-weight:700;color:#2D3748;">secteurs porteurs</span> et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
           <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
         </mj-column>
       </mj-section>
@@ -112,7 +113,7 @@
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="H14-900 cO" text-transform="uppercase">BTS MCO</mj-text>
         <mj-text padding="0" align="left" mj-class="H20-700 cOF">Semaine de regroupement&nbsp;: immersion et découvertes pour les BTS&nbsp;MCO&nbsp;!</mj-text>
-        <mj-text padding="0" mj-class="T16-300">Les <span style="font-weight:700;color:#2D3748;">BTS MCO</span> ont vécu une semaine enrichissante à <span style="font-weight:700;color:#2D3748;">Ecosup Commerce</span> avec des <span style="font-weight:700;color:#2D3748;">ateliers digitaux</span>, une <span style="font-weight:700;color:#2D3748;">immersion en restauration</span> sur le thème "À TABLE" et une préparation à l'épreuve de 2025. Prochaine étape&nbsp;: entrepreneuriat&nbsp;!</mj-text>
+        <mj-text padding="0" mj-class="T16-300 c">Les <span style="font-weight:700;color:#2D3748;">BTS MCO</span> ont vécu une semaine enrichissante à <span style="font-weight:700;color:#2D3748;">Ecosup Commerce</span> avec des <span style="font-weight:700;color:#2D3748;">ateliers digitaux</span>, une <span style="font-weight:700;color:#2D3748;">immersion en restauration</span> sur le thème "À TABLE" et une préparation à l'épreuve de 2025. Prochaine étape&nbsp;: entrepreneuriat&nbsp;!</mj-text>
         <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-commerce.fr/semaine-regroupement-immersion-et-decouvertes-bts-mco" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
@@ -123,7 +124,7 @@
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" mj-class="H14-900 cO" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0" align="left" mj-class="H20-700 cOF">Décrocher son contrat d'alternance&nbsp;: 3 étapes clés pour réussir</mj-text>
-        <mj-text padding="0" mj-class="T16-300">Pour décrocher une alternance, <span style="font-weight:700;color:#2D3748;">définissez vos objectifs</span>, ciblez les entreprises et utilisez les plateformes d'emploi. <span style="font-weight:700;color:#2D3748;">Soignez CV et lettre de motivation</span>, personnalisez-les pour chaque offre. <span style="font-weight:700;color:#2D3748;">Préparez vos entretiens</span> en vous renseignant sur l'entreprise. Soyez persévérant, l'alternance est avant tout une formation.</mj-text>
+        <mj-text padding="0" mj-class="T16-300 c">Pour décrocher une alternance, <span style="font-weight:700;color:#2D3748;">définissez vos objectifs</span>, ciblez les entreprises et utilisez les plateformes d'emploi. <span style="font-weight:700;color:#2D3748;">Soignez CV et lettre de motivation</span>, personnalisez-les pour chaque offre. <span style="font-weight:700;color:#2D3748;">Préparez vos entretiens</span> en vous renseignant sur l'entreprise. Soyez persévérant, l'alternance est avant tout une formation.</mj-text>
         <mj-text align="right" color="#EC6608" font-weight="700"><a href="https://ecosup-commerce.fr/decrocher-contrat-alternance-3-etapes-cles-pour-reussir" style="color:#EC6608;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
@@ -213,10 +214,10 @@
     <mj-section background-color="#dce6ef">
       <mj-column width="480px">
         <mj-image padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed0f9d8a3bdbe17813ef.png" alt="Logo Ecosup-Campus"/>
-        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300 cT"><a style="text-decoration:none;color:#" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">17 Place Charles et Albert Roussel</a></mj-text>
-        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300 cT" text-transform="uppercase"><a style="text-decoration:none;color:#fcfcfc;" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">59200 tourcoing</a></mj-text>
-        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300"><a style="font-weight:700;color:#2D3748;text-decoration:none;" href="tel:0320700606">03.20.70.06.06</a></mj-text>
-        <mj-text padding-top="0" align="center" mj-class="T12-300"><a style="font-weight:700;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300 c"><a style="text-decoration:none;color:#455462" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300 c" text-transform="uppercase"><a style="text-decoration:none;color:#455462;" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">59200 tourcoing</a></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300 c"><a style="font-weight:700;color:#2D3748;text-decoration:none;" href="tel:0320700606">03.20.70.06.06</a></mj-text>
+        <mj-text padding-top="0" align="center" mj-class="T12-300 c"><a style="font-weight:700;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
